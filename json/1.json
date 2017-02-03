@@ -1,0 +1,83 @@
+[
+    {
+        "vocabulary": "man",
+        "phonetic": "[man:]",
+        "meaning": "person i allmänhet, -mannen-män-männen",
+        "audio": "http://lexin.nada.kth.se/sound/v2/238446_1.mp3"
+    },
+    {
+        "vocabulary": "men",
+        "phonetic": "[men:] ",
+        "meaning": "but",
+        "audio": "http://lexin.nada.kth.se/sound/v2/243035_1.mp3"
+    },
+    {
+        "vocabulary": "andra",
+        "phonetic": "[²ạn:dra]",
+        "meaning": "2nd, annan-annat-andra",
+        "audio": "http://lexin.nada.kth.se/sound/v2/103944_1.mp3"
+    },
+    {
+        "vocabulary": "ändra",
+        "phonetic": "[²ẹn:drar]",
+        "meaning": "change",
+        "audio": "http://lexin.nada.kth.se/sound/0344ndrar.mp3"
+    },
+    {
+        "vocabulary": "förändrar",
+        "phonetic": "[förẹn:drar]",
+        "meaning": "change",
+        "audio": "http://lexin.nada.kth.se/sound/f0366r0344ndrar.mp3"
+    },
+    {
+        "vocabulary": "före|drar",
+        "phonetic": "[²fọ̈:redra:r]",
+        "meaning": "tycker mer om",
+        "audio": "http://lexin.nada.kth.se/sound/f0366redrar.mp3"
+    },
+    {
+        "vocabulary": "för|bereder",
+        "phonetic": "[²fọ̈:rbere:der]",
+        "meaning": "gör i ordning i förväg, planerar; övar in",
+        "audio": "http://lexin.nada.kth.se/sound/f0366rbereder.mp3"
+    },
+    {
+        "vocabulary": "ena",
+        "phonetic": "[²ẹ:na]",
+        "meaning": "de har två söner, den ene är lik sin pappa och den andre är lik sin mamma.",
+        "audio": "http://lexin.nada.kth.se/sound/v2/142904_1.mp3"
+    },
+    {
+        "vocabulary": "med|lem",
+        "phonetic": "[²mẹ:dlem:]",
+        "meaning": "person som tillhör en organisation eller en förening",
+        "audio": "http://lexin.nada.kth.se/sound/v2/242256_1.mp3"
+    },
+    {
+        "vocabulary": "med|delande",
+        "phonetic": "[²mẹ:de:lande]",
+        "meaning": "message",
+        "audio": "http://lexin.nada.kth.se/sound/v2/241730_1.mp3"
+    },
+    {
+        "vocabulary": "grund",
+        "phonetic": "[grun:d]",
+        "meaning": "på grund av, med anledning av",
+        "audio": "http://lexin.nada.kth.se/sound/v2/173719_1.mp3"
+    },
+    {
+        "vocabulary": "anledning",
+        "phonetic": "[²ạn:le:dniŋ]",
+        "meaning": "skäl, orsak, grund",
+        "audio": "http://lexin.nada.kth.se/sound/v2/104687_1.mp3"
+    },
+    {
+        "vocabulary": "vana",
+        "phonetic": "[²vạ:na]",
+        "meaning": "erfarenhet, träning; något man gör ofta",
+        "audio": "http://lexin.nada.kth.se/sound/v2/386409_1.mp3"
+    }
+
+
+    
+]
